@@ -1,6 +1,5 @@
 print("Hello World")
-print("Hello World")
-print("Hello World")
-print("Hello World")
-print("Hello World")
-print("Hello World")
+a = 10
+b = 30
+c = a+b
+print(c)
